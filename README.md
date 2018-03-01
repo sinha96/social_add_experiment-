@@ -1,4 +1,4 @@
-#Social Add Experiment
+# social_add_experiment-
 
 This is a experiment done on the social add of SUV car in we collect the data about age, salary, coustomer ID, gender and weather the coustomer purchased the car or not.
 
